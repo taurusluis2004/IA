@@ -42,3 +42,4 @@ print("Testing perceptron:")
 inputuse = [0, 0, 1, 1, 1]
 inputuse2 = [0, 0, 0, 1, 1]
 use(inputuse, inputuse2)
+print(input1)
